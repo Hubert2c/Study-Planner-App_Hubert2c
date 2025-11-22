@@ -239,9 +239,9 @@ This project fully meets all requirements for the Study Planner App assignment:
 
 ## Author
 
-**UTERAMAHORO Avellin Bonaparte**
-- GitHub: [@Bonaparte003](https://github.com/Bonaparte003)
-- Email: b.uteramaho@alustudent.com
+**MUNEZERO Hubert**
+- GitHub: [@Hubert2c](https://github.com/Hubert2c/Study-Planner-App_Hubert2c)
+- Email: m.hubert@alustudent.com
 
 ## Acknowledgments
 
