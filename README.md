@@ -1,1 +1,0 @@
-# Study-Planner-App_Hubert2c
