@@ -249,7 +249,3 @@ This project fully meets all requirements for the Study Planner App assignment:
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/icons-notification.html) for notification icons
 - Material Design team for design guidelines
 - Flutter community for excellent packages and resources
-
-
-Name: Munezero Hubert
-Github:Hubert2c
